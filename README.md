@@ -1,3 +1,4 @@
+![TAYcraft](https://taycraft.freeflarum.com/assets/logo-lwtavnat.png)
 # TAYcraft  ——frpc
 - 该程序是一个开源项目被我们利用作为一个内网穿透的图形化程序。
 - 内网穿透的节点出自 TAYcraft 暗影科技
